@@ -1,0 +1,30 @@
+gitignore
+
+# Archivos del sistema (Windows, MacOS)
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Configuraciones de editores comunes
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos temporales comunes
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Archivos personales o sensibles
+*.secret
+*.key
+*.env
+.env.*
+
+
+
+nginx
+
+archivo .gitignore inicial
