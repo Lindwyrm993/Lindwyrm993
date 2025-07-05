@@ -1,5 +1,3 @@
-gitignore
-
 # Archivos del sistema (Windows, MacOS)
 .DS_Store
 Thumbs.db
