@@ -22,9 +22,3 @@ desktop.ini
 *.key
 *.env
 .env.*
-
-
-
-nginx
-
-archivo .gitignore inicial
