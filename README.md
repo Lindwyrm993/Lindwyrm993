@@ -14,7 +14,13 @@ También he completado el curso **Fundamentos de ChatGPT** ofrecido por **Santan
 
 Además, estoy aprendiendo **italiano** de forma autodidacta, para ampliar mis horizontes y capacidades profesionales.
 
-----
+---
+
+## Contacto Profesional
+
+📧 Email: zoelpuente541@gmail.com
+
+---
 
 ## About Me
 
@@ -29,3 +35,12 @@ I am currently learning to program in **C#**, **Python** and **Java**, with an e
 I have also completed the **Foundation of ChatGPT** course offered by **Santander Open Academy** as part of my early training in artificial intelligence.
 
 Additionaly, I am teaching myself **Italian** to broaden my cultural and professional horizons.
+
+---
+
+## Professional Contact  
+
+📧 Email: zoelpuente541@gmail.com
+
+---
+
