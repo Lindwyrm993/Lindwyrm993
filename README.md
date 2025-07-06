@@ -24,17 +24,17 @@ Además, estoy aprendiendo **italiano** de forma autodidacta, para ampliar mis h
 
 ## About Me
 
-Hello! I'm Diego Zoel Puente Avila, a former Computer Systems Engineering student at Tecnológico Superior de Jalisco, Zapopan campus. I am currenly in the third semester of a nine-semester program.
+Hello! I'm Diego Zoel Puente Avila, a Computer Systems Engineering student at Tecnológico Superior de Jalisco, campus Zapopan. Currently in third semester of a nine-semester program.
 
-I am passionate about technology, innovation, and disruptive change. I consider myself an organized and methodical person, both in my learning processes and in project development.
+My passion lies primarily in technology, innovation, and disruptive change. I consider myself an organized and methodical person, both in my learning processes and project development.
 
-My main areas of interest include coding, artificial intelligence, cybersecurity, and data analysis. At the moment, I am focused on strengthening my backend development skills as a foundation for becoming a well-rounded **Fullstack** developer in the future.
+My main areas of interest include programming, artificial intelligence, cybersecurity, and data analysis. At the moment, I'm focusing on strengthening my backend development skills as a foundation for becoming a well-rounded **Fullstack Developer**.
 
-I am currently learning to program in **C#**, **Python** and **Java**, with an emphasis on best development practices. I mainly work with development environments such as **NetBeans** and **Visual Studio**, and have started using **Jupyter Notebook** as part of my preparation to apply for the "**Accelerating Mexico with Artificial Intelligence 2025**" program by Intel.
+I'm currently learning **C#**, **Python** and **Java**, with a strong emphasis on best development practices. I mainly work with development environments such as **NetBeans** and **Visual Studio**, and have recently started using **Jupyter Notebook** as part of my preparation for the "**Accelerating Mexico with Artificial Intelligence 2025**" program by Intel.
 
 I have also completed the **Foundation of ChatGPT** course offered by **Santander Open Academy** as part of my early training in artificial intelligence.
 
-Additionaly, I am teaching myself **Italian** to broaden my cultural and professional horizons.
+Additionally, I'm learning **Italian** to broaden my cultural and professional horizons.
 
 ---
 
