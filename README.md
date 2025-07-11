@@ -18,7 +18,8 @@ Además, estoy aprendiendo **italiano** de forma autodidacta, para ampliar mis h
 
 ## Contacto Profesional
 
-📧 Email: zoelpuente541@gmail.com
+LinkedIn: https://www.linkedin.com/in/zoel-puente-5074b7374/
+Email: zoelpuente541@gmail.com
 
 ---
 
@@ -40,7 +41,8 @@ Additionally, I'm learning **Italian** to broaden my cultural and professional h
 
 ## Professional Contact  
 
-📧 Email: zoelpuente541@gmail.com
+LinkedIn: https://www.linkedin.com/in/zoel-puente-5074b7374/
+Email: zoelpuente541@gmail.com
 
 ---
 
