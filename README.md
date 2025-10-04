@@ -1,24 +1,24 @@
 ### Hi there, I'm Zoel 👋
 
-I'm a Systems Engineering student focused on building robust, efficient, and human-centered technology. I aim to design solutions that scale responsibly and create measurable positive outcomes for people and organizations.  
+I'm a Systems Engineering student architecting robust and efficient technology with a human-centered approach. I see technology as a bridge between logic and empathy, where the best systems serve both efficiency and humanity. My mission is to operate as an **agent of change**, leveraging complex systems to create measurable, positive outcomes.
 
 ---
 
 ### About Me
 
-Currently in my third semester at Tecnológico Superior de Jalisco, I'm developing a strong foundation in software engineering and IT infrastructure. I approach every challenge with a dual mindset:
+Currently in my third semester at Tecnológico Superior de Jalisco, I'm building a deep technical foundation in software engineering and IT infrastructure. I approach every challenge with a dual mindset:
 
 * **The Engineer:** Deconstructs complex problems, designs logical systems, and builds resilient solutions from first principles.  
-* **The Humanist:** Keeps the end-user and the broader impact in mind, ensuring that solutions are not only functional but also responsible and empathetic.  
+* **The Humanist:** Focuses on the end-user and the broader societal impact of technology, ensuring solutions are not only functional but also responsible and empathetic.  
 
-My main areas of interest are **Artificial Intelligence and Data Science**, as I believe these fields hold the greatest potential for addressing real-world challenges in the coming decade.  
+My primary domains of interest are **Artificial Intelligence and Data Science**, as I believe these fields hold the greatest potential for addressing real-world challenges in the coming decade.  
 
 ---
 
 ### 💡 Core Philosophy
 
-* **Systems Over Goals:** I focus on sustainable systems for growth and productivity, trusting that good systems inevitably achieve great goals.  
-* **Learning in Public:** I document my learning journey as a "Digital Garden," turning personal knowledge into shared resources.  
+* **Systems Over Goals:** I focus on building sustainable systems for growth and productivity, trusting that good systems inevitably achieve great goals.  
+* **Sharing the Journey:** I openly document my learning process, turning personal notes, experiments, and insights into resources that others can learn from.  
 * **Resilience Through Refactoring:** I treat setbacks as data points—opportunities to debug, extract lessons, and refactor for stronger outcomes.  
 
 ---
@@ -42,10 +42,16 @@ My main areas of interest are **Artificial Intelligence and Data Science**, as I
 
 ### 💻 Tech Stack
 
-* **Languages:** Python (intermediate); Java (intermediate); C++, SQL (introductory).  
-* **Databases:** MySQL, SQLite.  
-* **Developer Tools:** Git, GitHub, PyCharm, Maven, VS Code.  
-* **Core Interests:** AI/Machine Learning, Data Analytics, Backend Development.  
+* **Languages:** Python (Intermediate), Java (Intermediate), C++, SQL (Introductory)  
+* **Databases:** MySQL, SQLite  
+* **Developer Tools:** Git, GitHub, PyCharm, Maven, VS Code  
+* **Core Interests:** AI/Machine Learning, Data Analytics, Backend Development  
+
+---
+
+### 🌍 Vision
+
+Long-term, I aspire to combine technical expertise with strategic thinking to lead projects that create responsible and global impact.  
 
 ---
 
