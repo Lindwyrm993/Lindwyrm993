@@ -18,7 +18,7 @@ Additionally, I'm learning **Italian** to broaden my cultural and professional h
 
 ## Professional Contact  
 
-([LinkedIn](https://www.linkedin.com/in/zoel-puente-5074b7374/))
+LinkedIn https://www.linkedin.com/in/zoel-puente-5074b7374/
 Email: zoelpuente541@gmail.com
 
 ---
