@@ -1,4 +1,4 @@
-### Hi there, I'm Zoel 
+## Hi there, I'm Zoel 
 
 I'm a Systems Engineering student architecting robust and efficient technology with a human-centered approach. I see technology as a bridge between logic and empathy, where the best systems serve both efficiency and humanity. My mission is to operate as an **agent of change**, leveraging complex systems to create measurable, positive outcomes.
 
