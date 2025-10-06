@@ -17,10 +17,10 @@ My primary domains of interest are **Artificial Intelligence and Data Science**,
 
 ###  Current Work
 
-* ** Python:** Strengthening my foundations and applying them by developing a **User Authentication System**, with secure password hashing and modular design.  
-* ** Data Analytics:** Preparing to begin the **Google Data Analytics Professional Certificate** in January 2026 to gain professional skills in data interpretation and visualization.  
-* ** English (B2/C1):** Expanding conversational fluency to complement strong technical reading comprehension.  
-* ** Italian:** Building a foundational understanding of a third language.  
+* **Python:** Strengthening my foundations and applying them by developing a **User Authentication System**, with secure password hashing and modular design.  
+* **Data Analytics:** Preparing to begin the **Google Data Analytics Professional Certificate** in January 2026 to gain professional skills in data interpretation and visualization.  
+* **English (B2/C1):** Expanding conversational fluency to complement strong technical reading comprehension.  
+* **Italian:** Building a foundational understanding of a third language.  
 
 ---
 
