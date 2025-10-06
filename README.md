@@ -1,4 +1,4 @@
-### Hi there, I'm Zoel 👋
+### Hi there, I'm Zoel 
 
 I'm a Systems Engineering student architecting robust and efficient technology with a human-centered approach. I see technology as a bridge between logic and empathy, where the best systems serve both efficiency and humanity. My mission is to operate as an **agent of change**, leveraging complex systems to create measurable, positive outcomes.
 
@@ -15,7 +15,7 @@ My primary domains of interest are **Artificial Intelligence and Data Science**,
 
 ---
 
-### 💡 Core Philosophy
+###  Core Philosophy
 
 * **Systems Over Goals:** I focus on building sustainable systems for growth and productivity, trusting that good systems inevitably achieve great goals.  
 * **Sharing the Journey:** I openly document my learning process, turning personal notes, experiments, and insights into resources that others can learn from.  
@@ -23,16 +23,16 @@ My primary domains of interest are **Artificial Intelligence and Data Science**,
 
 ---
 
-### 🚀 Current Work
+###  Current Work
 
-* **🐍 Python:** Strengthening my foundations and applying them by developing a **User Authentication System**, with secure password hashing and modular design.  
-* **📊 Data Analytics:** Preparing to begin the **Google Data Analytics Professional Certificate** in January 2026 to gain professional skills in data interpretation and visualization.  
-* **🗣️ English (B2/C1):** Expanding conversational fluency to complement strong technical reading comprehension.  
-* **🇮🇹 Italian:** Building a foundational understanding of a third language.  
+* ** Python:** Strengthening my foundations and applying them by developing a **User Authentication System**, with secure password hashing and modular design.  
+* ** Data Analytics:** Preparing to begin the **Google Data Analytics Professional Certificate** in January 2026 to gain professional skills in data interpretation and visualization.  
+* ** English (B2/C1):** Expanding conversational fluency to complement strong technical reading comprehension.  
+* ** Italian:** Building a foundational understanding of a third language.  
 
 ---
 
-### 💻 Key Projects
+###  Key Projects
 
 * **[In Progress] User Authentication System (Python):** Modular backend system implementing secure authentication practices. Designed for reusability in future projects.  
 * **[Planned] Full-Featured POS System (Java):** Comprehensive Point of Sale application, currently in the specification stage. Intended as a capstone to showcase complex, data-driven development.  
@@ -40,7 +40,7 @@ My primary domains of interest are **Artificial Intelligence and Data Science**,
 
 ---
 
-### 💻 Tech Stack
+###  Tech Stack
 
 * **Languages:** Python (Intermediate), Java (Intermediate), C++, SQL (Introductory)  
 * **Databases:** MySQL, SQLite  
@@ -49,13 +49,13 @@ My primary domains of interest are **Artificial Intelligence and Data Science**,
 
 ---
 
-### 🌍 Vision
+###  Vision
 
 Long-term, I aspire to combine technical expertise with strategic thinking to lead projects that create responsible and global impact.  
 
 ---
 
-### 📫 How to Reach Me
+###  How to Reach Me
 
 * **LinkedIn:** [Zoel Puente](https://www.linkedin.com/in/zoelpuente)  
 * **Email:** zoelpuente541@gmail.com
