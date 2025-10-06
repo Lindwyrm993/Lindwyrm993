@@ -1,6 +1,6 @@
 ## Hi there, I'm Zoel 
 
-I'm a Systems Engineering student architecting robust and efficient technology with a human-centered approach. I see technology as a bridge between logic and empathy, where the best systems serve both efficiency and humanity. My mission is to operate as an **agent of change**, leveraging complex systems to create measurable, positive outcomes.
+I'm a Systems Engineering student, architecting robust and efficient technology with a human-centered approach. Technology serves as a bridge between logic and empathy, where the best systems strike a balance between efficiency and humanity. My mission is to operate as an **agent of change**, leveraging complex systems to create measurable, positive outcomes.
 
 ---
 
@@ -51,7 +51,7 @@ My primary domains of interest are **Artificial Intelligence and Data Science**,
 
 ###  Vision
 
-Long-term, I aspire to combine technical expertise with strategic thinking to lead projects that create responsible and global impact.  
+In the long-term, I aspire to combine technical expertise with strategic thinking to lead projects that create responsible and global impact.  
 
 ---
 
