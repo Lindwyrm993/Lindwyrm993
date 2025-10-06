@@ -1,6 +1,6 @@
 ## Hi there, I'm Zoel 
 
-I'm a Systems Engineering student, architecting robust and efficient technology with a human-centered approach. Technology serves as a bridge between logic and empathy, where the best systems strike a balance between efficiency and humanity. My mission is to operate as an **agent of change**, leveraging complex systems to create measurable, positive outcomes.
+I'm a Systems Engineering student dedicated to architecting robust and efficient technology with a human-centered approach. Technology serves as a bridge between logic and empathy, where the best systems strike a balance between efficiency and humanity. My mission is to operate as an **agent of change**, leveraging complex systems to create measurable, positive outcomes.
 
 ---
 
@@ -11,7 +11,7 @@ Currently in my third semester at Tecnológico Superior de Jalisco, I'm building
 * **The Engineer:** Deconstructs complex problems, designs logical systems, and builds resilient solutions from first principles.  
 * **The Humanist:** Focuses on the end-user and the broader societal impact of technology, ensuring solutions are not only functional but also responsible and empathetic.  
 
-My primary domains of interest are **Artificial Intelligence and Data Science**, as I believe these fields hold the greatest potential for addressing real-world challenges in the coming decade.  
+My primary interests lie in **Artificial Intelligence and Data Science**, as I see them as the most promising tools for tackling real-world challenges in the coming decade.  
 
 ---
 
@@ -19,7 +19,7 @@ My primary domains of interest are **Artificial Intelligence and Data Science**,
 
 * **Python:** Strengthening my foundations and applying them by developing a **User Authentication System**, with secure password hashing and modular design.  
 * **Data Analytics:** Preparing to begin the **Google Data Analytics Professional Certificate** in January 2026 to gain professional skills in data interpretation and visualization.  
-* **English (B2/C1):** Expanding conversational fluency to complement strong technical reading comprehension.  
+* **English (B2/C1):** Expanding conversational fluency to effectively communicate technical ideas and collaborate in international environments.  
 * **Italian:** Building a foundational understanding of a third language.  
 
 ---
@@ -51,7 +51,7 @@ My primary domains of interest are **Artificial Intelligence and Data Science**,
 
 ###  Vision
 
-In the long-term, I aspire to combine technical expertise with strategic thinking to lead projects that create responsible and global impact.  
+In the long term, I aspire to combine technical expertise with strategic thinking to lead projects that create responsible and global impact.  
 
 ---
 
