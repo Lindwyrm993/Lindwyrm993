@@ -15,14 +15,6 @@ My primary domains of interest are **Artificial Intelligence and Data Science**,
 
 ---
 
-###  Core Philosophy
-
-* **Systems Over Goals:** I focus on building sustainable systems for growth and productivity, trusting that good systems inevitably achieve great goals.  
-* **Sharing the Journey:** I openly document my learning process, turning personal notes, experiments, and insights into resources that others can learn from.  
-* **Resilience Through Refactoring:** I treat setbacks as data points—opportunities to debug, extract lessons, and refactor for stronger outcomes.  
-
----
-
 ###  Current Work
 
 * ** Python:** Strengthening my foundations and applying them by developing a **User Authentication System**, with secure password hashing and modular design.  
@@ -46,6 +38,14 @@ My primary domains of interest are **Artificial Intelligence and Data Science**,
 * **Databases:** MySQL, SQLite  
 * **Developer Tools:** Git, GitHub, PyCharm, Maven, VS Code  
 * **Core Interests:** AI/Machine Learning, Data Analytics, Backend Development  
+
+---
+
+###  Core Philosophy
+
+* **Systems Over Goals:** I focus on building sustainable systems for growth and productivity, trusting that good systems inevitably achieve great goals.  
+* **Sharing the Journey:** I openly document my learning process, turning personal notes, experiments, and insights into resources that others can learn from.  
+* **Resilience Through Refactoring:** I treat setbacks as data points—opportunities to debug, extract lessons, and refactor for stronger outcomes.  
 
 ---
 
