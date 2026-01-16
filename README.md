@@ -50,5 +50,3 @@ I am currently architecting **QuantIA**, a SaaS Business Intelligence proposal d
 
 * **LinkedIn:** [linkedin.com/in/zoelpuente](https://www.linkedin.com/in/zoelpuente)
 * **Email:** zoelpuente541@gmail.com
-
-[![Zoel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lindwyrm993&show_icons=true&theme=radical&hide=stars)](https://github.com/Lindwyrm993?tab=repositories)
