@@ -1,61 +1,54 @@
-## Hi there, I'm Zoel 
+# Hi there, I'm Zoel Puente
 
-I'm a Systems Engineering student dedicated to architecting robust and efficient technology with a human-centered approach. Technology serves as a bridge between logic and empathy, where the best systems strike a balance between efficiency and humanity. My mission is to operate as an **agent of change**, leveraging complex systems to create measurable, positive outcomes.
+### Systems Engineering Student | Supply Chain Integrity Specialist
 
----
+I am a **Computer Systems Engineer** in the making with a distinctive edge: I don't just write code; I operate high-stakes logistics.
 
-### About Me
-
-Currently in my third semester at Tecnológico Superior de Jalisco, I'm building a deep technical foundation in software engineering and IT infrastructure. I approach every challenge with a dual mindset:
-
-* **The Engineer:** Deconstructs complex problems, designs logical systems, and builds resilient solutions from first principles.  
-* **The Humanist:** Focuses on the end-user and the broader societal impact of technology, ensuring solutions are not only functional but also responsible and empathetic.  
-
-My primary interests lie in **Artificial Intelligence and Data Science**, as I see them as the most promising tools for tackling real-world challenges in the coming decade.  
+Currently, I safeguard a **$50M USD annual asset flow** at Jabil while architecting software solutions to minimize industrial waste and financial loss. My focus is on **Physical-Digital Convergence**: using Data Engineering and Python to solve real-world inefficiencies in Supply Chains.
 
 ---
 
-###  Current Work
+### Current Focus: Project QuantIA
 
-* **Python:** Strengthening my foundations and applying them by developing a **User Authentication System**, with secure password hashing and modular design.  
-* **Data Analytics:** Preparing to begin the **Google Data Analytics Professional Certificate** in January 2026 to gain professional skills in data interpretation and visualization.  
-* **English (B2/C1):** Expanding conversational fluency to effectively communicate technical ideas and collaborate in international environments.  
-* **Italian:** Building a foundational understanding of a third language.  
+I am currently architecting **QuantIA**, a SaaS Business Intelligence proposal designed to solve the "Dead Stock Paradox."
 
----
+* **The Mission:** To transform static inventory data into predictive financial insights.
+* **The Goal:** Reduce ESG impact by minimizing waste through better algorithms.
+* **The Stack:** Python, PostgreSQL, Docker, and Business Intelligence.
 
-###  Key Projects
-
-* **[In Progress] User Authentication System (Python):** Modular backend system implementing secure authentication practices. Designed for reusability in future projects.  
-* **[Planned] Full-Featured POS System (Java):** Comprehensive Point of Sale application, currently in the specification stage. Intended as a capstone to showcase complex, data-driven development.  
-* **[Planned] "Digital Garden" of Knowledge:** A public repository for structured notes, guides, and analyses from my ongoing learning journey.  
+> *Check out the [QuantIA Architecture Repository](LINK_A_TU_REPO_QUANTIA) to see the roadmap.*
 
 ---
 
-###  Tech Stack
+### Technical Arsenal
 
-* **Languages:** Python (Intermediate), Java (Intermediate), C++, SQL (Introductory)  
-* **Databases:** MySQL, SQLite  
-* **Developer Tools:** Git, GitHub, PyCharm, Maven, VS Code  
-* **Core Interests:** AI/Machine Learning, Data Analytics, Backend Development  
-
----
-
-###  Core Philosophy
-
-* **Systems Over Goals:** I focus on building sustainable systems for growth and productivity, trusting that good systems inevitably achieve great goals.  
-* **Sharing the Journey:** I openly document my learning process, turning personal notes, experiments, and insights into resources that others can learn from.  
-* **Resilience Through Refactoring:** I treat setbacks as data points—opportunities to debug, extract lessons, and refactor for stronger outcomes.  
+| Domain | Stack & Skills |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
+| **Data & BI** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/-Excel%20Adv-217346?style=flat&logo=microsoft-excel&logoColor=white) |
+| **Operations** | `Supply Chain Integrity` `Asset Management` `Revenue Recognition` `Monte Carlo Simulation` |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 
 ---
 
-###  Vision
+### My Engineering Philosophy
 
-In the long term, I aspire to combine technical expertise with strategic thinking to lead projects that create responsible and global impact.  
+* **Systems > Goals:** Goals are momentary; systems are compounding. I build robust workflows (both in code and in warehouses) that survive friction.
+* **The Operator's Mindset:** My code is grounded in reality. I know the cost of a runtime error because I know the cost of a stopped production line.
+* **Resilience:** I view failure—systemic or personal—as a dataset to be debugged, not a dead end.
 
 ---
 
-###  How to Reach Me
+### Analytics & Learning
 
-* **LinkedIn:** [Zoel Puente](https://www.linkedin.com/in/zoelpuente)  
+* **Certifications:** Microsoft Certified: Power BI Data Analyst Associate (PL-300) [Planned 2026].
+* **Languages:** English (C1 - Professional Working Proficiency), Spanish (Native).
+
+---
+
+### Connect with Me
+
+* **LinkedIn:** [linkedin.com/in/zoelpuente](https://www.linkedin.com/in/zoelpuente)
 * **Email:** zoelpuente541@gmail.com
+
+![Zoel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lindwyrm993&show_icons=true&theme=radical&hide=stars)
