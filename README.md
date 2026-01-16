@@ -35,13 +35,13 @@ I am currently architecting **QuantIA**, a SaaS Business Intelligence proposal d
 
 * **Systems > Goals:** Goals are momentary; systems are compounding. I build robust workflows (both in code and in warehouses) that survive friction.
 * **The Operator's Mindset:** My code is grounded in reality. I know the cost of a runtime error because I know the cost of a stopped production line.
-* **Resilience:** I view failure—systemic or personal—as a dataset to be debugged, not a dead end.
+* **Resilience:** I view failure (systemic or personal) as a dataset to be debugged, not a dead end.
 
 ---
 
 ### Analytics & Learning
 
-* **Certifications:** Microsoft Certified: Power BI Data Analyst Associate (PL-300) [Planned 2026].
+* **Certifications:** Microsoft Certified: Power BI Data Analyst Associate (PL-300) [Planned Q1 2026].
 * **Languages:** English (C1 - Professional Working Proficiency), Spanish (Native).
 
 ---
