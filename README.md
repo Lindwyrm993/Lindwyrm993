@@ -10,7 +10,7 @@ Currently, I safeguard a **$50M USD annual asset flow** at Jabil while architect
 
 ### Current Focus: Project QuantIA
 
-I am currently architecting **QuantIA**, a SaaS Business Intelligence proposal designed to solve the "Dead Stock Paradox."
+I am currently architecting **QuantIA**, a SaaS Business Intelligence proposal designed to solve the "Dead Stock Challenge's."
 
 * **The Mission:** To transform static inventory data into predictive financial insights.
 * **The Goal:** Reduce ESG impact by minimizing waste through better algorithms.
