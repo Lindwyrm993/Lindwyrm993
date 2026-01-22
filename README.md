@@ -16,7 +16,7 @@ I am currently architecting **QuantIA**, a SaaS Business Intelligence proposal d
 * **The Goal:** Reduce ESG impact by minimizing waste through better algorithms.
 * **The Stack:** Python, PostgreSQL, Docker, and Business Intelligence.
 
-> *Check out the [QuantIA Architecture Repository](https://github.com/Lindwyrm993/QuantIA) to see the roadmap.*
+> *Check out the [QuantIA Architecture Repository](https://github.com/diegozoel/QuantIA) to see the roadmap.*
 
 ---
 
